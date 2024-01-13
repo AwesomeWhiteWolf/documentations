@@ -7,6 +7,7 @@
 4. [Backtik](#backtik)
 5. [Work with text](#text)
 6. [Link](#link)
+   - [Auto link](#autoLink)
 7. [Image](#img)
 8. [Features](#features)
     - [hr](#hr)
@@ -106,12 +107,18 @@ console.log(a + b)
 Для вставки ссылки в строчном стиле необходимо воспользоваться следующей конструкцией: [Текст ссылки]​(URL). Есть возможность добавить подсказку, для этого нужно после URL дописать текст в кавычках: [Текст ссылки]​(URL "Подсказка").\
 `Hello, [world](https://i.pinimg.com/564x/5b/02/47/5b0247d140ff9659066d61fa63edc79a.jpg)!`<br>
 Hello, [world](https://i.pinimg.com/564x/5b/02/47/5b0247d140ff9659066d61fa63edc79a.jpg)!
+<div id='autoLink'/>
+
+## Auto link
+`<http://example.com/>`
+<http://example.com/>
 <div id='img'/>
 
 ## img
-Для вставки изображения в строчном стиле необходимо воспользоваться конструкцией !⁠[Alt текст]​(URL картинки). При желании можно добавить подсказку: !⁠[Alt текст]​(URL картинки "Подсказка").
+Для вставки изображения в строчном стиле необходимо воспользоваться конструкцией !⁠[Alt текст]​(URL картинки).
 
-`![Одна собака]([dog.png](https://i.pinimg.com/564x/5b/02/47/5b0247d140ff9659066d61fa63edc79a.jpg) "Котёнок")`
+`![Одна собака](https://i.pinimg.com/564x/5b/02/47/5b0247d140ff9659066d61fa63edc79a.jpg)` <br>
+![Одна собака](https://i.pinimg.com/564x/5b/02/47/5b0247d140ff9659066d61fa63edc79a.jpg)
 
 <div id='features'/>
 
