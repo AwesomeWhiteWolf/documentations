@@ -3,7 +3,7 @@
 # Table of contents
 1. [Atx-style](#atx-style)
 2. [List](#list)
-    -[List in](#listIn)
+    - [List in](#listIn)
 4. [Backtik](#backtik)
 5. [Work with text](#text)
 6. [Link](#link)
