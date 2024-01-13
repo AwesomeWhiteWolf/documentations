@@ -18,10 +18,9 @@
     - [Advices](#advice)
 
 # Syntax
-
+<div id='atx-style'/>
     
 ## Atx-style
-<div id='atx-style'/>
 \# - Atx-style - 1 level<br>
 \#\# - Atx-style - 2 level and etc.<br>
 
