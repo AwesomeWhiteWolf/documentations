@@ -1,4 +1,10 @@
 ## Navigation 
 
-Дока — это **добрая** энциклопедия для веб-разработчиков.
-Вы можете [открыть её](https://github.com/AwesomeWhiteWolf/documentations/blob/main/c%2B%2B.md) в своём браузере. 
+**Cсылки для перехода на документации** 
+[C++](https://github.com/AwesomeWhiteWolf/documentations/blob/main/c%2B%2B.md)
+[PHP]
+[JavaScript]
+[TypeScript]
+[HTML + CSS]
+[MarkDown]
+[English]
