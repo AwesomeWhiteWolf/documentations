@@ -21,9 +21,9 @@ English languages very important for developers today. A lot of information we c
       - [perfect](#perfect)
 5. [Grammar](#grammar)
 
-
+<div id='words'/>
+    
 ## Common words
-
 ```
 no pain, no gain - без труда не выловишь рыбки из пруда
 
@@ -103,4 +103,10 @@ assume - предполагать
 leg it out - выкинуть это из головы
 amateur - любитель
 involve - вовлекать
+```
+<div id='dev'/>
+## Words for dev
+
+```
+software engineer - 
 ```
