@@ -23,7 +23,13 @@ English languages very important for developers today. A lot of information we c
     
 ## Common words
 ```
-
+relative - относительный родственник
+envelope - оболчка, конверт
+URL(Uniform Resource Locator) - Единый указатель ресурсов
+tend - иметь тенденцию
+convention - соглашение
+interactive - интерактивный, диалоговый, осуществляющий взаимодействие
+up until now - до этого момента
 radiant - сияющий
 aware - осведомлен 
 covenant - завет 
