@@ -123,6 +123,7 @@ Hello, [world](https://i.pinimg.com/564x/5b/02/47/5b0247d140ff9659066d61fa63edc7
 `![Одна собака](https://i.pinimg.com/564x/5b/02/47/5b0247d140ff9659066d61fa63edc79a.jpg)` <br>
 ![Одна собака](https://i.pinimg.com/564x/5b/02/47/5b0247d140ff9659066d61fa63edc79a.jpg)
 
+Для изменения размеров картинки воспользуемся html-тэгом.
 <div id='features'/>
 
 ## Features
