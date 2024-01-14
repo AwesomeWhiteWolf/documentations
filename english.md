@@ -3,9 +3,7 @@ English languages very important for developers today. A lot of information we c
 # Table of contents
 1. [Common words](#words)
 1. [Words for dev](#dev)
-2. [Colloquial English](#list)
-    - [Slang](#slang)
-    - [Idioms](#idioms)
+2. [Slang](#slang)
 4. [Times](#times)
     - [Present](#present)
       - [Simple](#simple)
@@ -25,15 +23,6 @@ English languages very important for developers today. A lot of information we c
     
 ## Common words
 ```
-no pain, no gain - без труда не выловишь рыбки из пруда
-
-screw up - облажаться/испортить  
-look up to кто - то - уважать
-catch up on - наверстать упущенное
-count on - доверять/полагаться
-chill out - расслабься
-no offense - без обид
-brace yourself - приготовьтесь 
 
 radiant - сияющий
 aware - осведомлен 
@@ -105,7 +94,71 @@ amateur - любитель
 involve - вовлекать
 ```
 <div id='dev'/>
+    
 ## Words for dev
+
+```
+software engineer - 
+```
+<div id='slang'/>
+    
+## Slang
+
+```
+no pain, no gain - без труда не выловишь рыбки из пруда
+screw up - облажаться/испортить  
+look up to кто - то - уважать
+catch up on - наверстать упущенное
+count on - доверять/полагаться
+chill out - расслабься
+no offense - без обид
+brace yourself - приготовьтесь 
+```
+<div id='times'/>
+    
+## Times
+<div id='present'/>
+    
+### Present
+<div id='simple'/>
+    
+#### Simple
+<div id='continuous'/>
+    
+#### Continuous
+<div id='perfect'/>
+    
+#### Perfect
+<hr>
+<div id='past'/>
+    
+### Past
+<div id='simple'/>
+    
+#### Simple
+<div id='continuous'/>
+    
+#### Continuous
+<div id='perfect'/>
+    
+#### Perfect
+<hr>
+<div id='future'/>
+    
+### Future
+<div id='simple'/>
+    
+#### Simple
+<div id='continuous'/>
+    
+#### Continuous
+<div id='perfect'/>
+    
+#### Perfect
+<hr>
+<div id='grammar'/>
+    
+## Grammar
 
 ```
 software engineer - 
