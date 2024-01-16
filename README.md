@@ -13,4 +13,4 @@
 
 - [MarkDown](https://github.com/AwesomeWhiteWolf/documentations/blob/main/markdown.md)
 
-- [English](https://github.com/AwesomeWhiteWolf/documentations/blob/main/english.md)
+
