@@ -23,6 +23,10 @@ English languages very important for developers today. A lot of information we c
     
 ## Common words
 ```
+prompt - быстрый
+alert - тревога
+Программные интерфейсы приложения (API)
+shore - берег
 relative - относительный родственник
 envelope - оболчка, конверт
 URL(Uniform Resource Locator) - Единый указатель ресурсов
