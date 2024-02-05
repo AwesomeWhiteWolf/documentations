@@ -27,7 +27,8 @@
 ## What is a Domain Name? 
 
 
-
+<div id='hosting'/>
+    
 ## What Is Web Hosting? Explained
 one pair \* or \_ will make the text italic ;<br>
 two pairs \* or \_ will make the text bold ;<br>
