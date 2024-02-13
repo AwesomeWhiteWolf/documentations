@@ -2,7 +2,7 @@
 
 **Links to go to documentation** 
 - [Internet](https://github.com/AwesomeWhiteWolf/documentations/blob/main/Frontend/Internet.md)
-- [HTML](https://github.com/AwesomeWhiteWolf/documentations/blob/main/php.md) (in the pipeline)
+- [HTML](https://github.com/AwesomeWhiteWolf/documentations/blob/main/Frontend/HTML.md) (in the pipeline)
 - [CSS](https://github.com/AwesomeWhiteWolf/documentations/blob/main/javascript.md) (in the pipeline)
 - [JavaScript]() (in the pipeline)
 - [Package Managers](https://github.com/AwesomeWhiteWolf/documentations/blob/main/html-css.md) (in the pipeline)
